@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "fcY6bijss/L2Y25KYj4HrNIoIIF4DY1Xy58ctV1m+0w73DqjQEaycqaN8q05D3vf1nhkNliPM2BmIlUYz3Lm+w==",
+  "success": true,
+  "projectFilePath": "C:\\GitVijay\\FirstAzureApplicationSolution\\FirstAzureApplication\\FirstAzureApplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vijay\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Vijay\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Vijay\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\Vijay\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\Vijay\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\Vijay\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
